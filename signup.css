@@ -1,0 +1,60 @@
+.container{
+    
+    text-align: center;
+    width: 350px;
+    height: 620px;
+    border: 1.5px solid #E6E6E6;
+    margin: auto;
+    margin-top: 100px;
+}
+.line{
+    width:300px;
+    font-size:bold;
+    margin-bottom: 35px;
+
+}
+.instagramText{
+    margin-top: 60px;
+    margin-bottom:20px;
+}
+
+.joinLetter{
+    font-size: 20px;
+    text-indent:15px;
+    padding:10px;
+    color:rgb(160, 158, 158);
+}
+.userSignUp{
+    width:280px;
+    height:40px;
+    margin-bottom: 10px;
+    border: 1px solid #E6E6E6;
+    border-radius: 3px;
+    background-color:#fafafa;
+    text-indent: 10px;
+
+}
+.loginButton{
+    width:290px;
+    height:35px;
+    margin-top: 10px;
+    border: 1px solid #E6E6E6;
+    border-radius: 3px;
+    background-color: rgba(144, 198, 248, 0.5);
+    color:white;
+}
+.joinInsta{
+    border:1.5px solid #E6E6E6;
+    text-align:center;
+    margin:auto;
+    width:350px;
+    margin-top:10px;
+    
+}
+
+.joinBtn{
+    background-color: white;
+    border:white;
+    color:rgb(82, 160, 228);
+    font-weight: 1000;
+}

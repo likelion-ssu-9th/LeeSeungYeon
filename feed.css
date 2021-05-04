@@ -1,0 +1,48 @@
+.cardViewSection {
+    
+    text-align: center;
+    background-color: white;
+    background-position: 50% 50%;
+ 
+}
+
+.cardImage>img{
+    width:700px;
+    margin-top: 20px;
+}
+
+.userNickName{
+    margin-left: -580px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.infoLeft{
+    float:left;
+    margin-left: 930px;
+    
+}
+.feedImg{
+    width:30px;
+}
+
+.infoRight{
+    float:left;
+    margin-left:530px;
+}
+
+.comment{
+    margin-top: 50px;
+    text-align: left;
+    margin-left:930px;
+}
+
+.commnet_form{
+    margin-top: 10px;
+    margin-left:-515px;
+}
+
+body{
+    background-color:rgba(0,0,0,0.1);
+}
+
